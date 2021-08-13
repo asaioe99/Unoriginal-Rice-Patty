@@ -2,11 +2,11 @@
 
 https://user-images.githubusercontent.com/43358273/127954308-5519436a-d980-420d-a6cd-d21e3cf463e3.mp4
 
-# Unoriginal-Rice-Patty
+# 偽本田
 
-*"Can you believe that a low-quality garage door has better security than a Honda?"*
+*"低品質のガレージドアがホンダのセキュリティよりもマシだなんて信じられる？"*
 
-*"Unoriginal-Rice-Patty" is my personal title for the Replay-based attack on Honda and Acura vehicles*
+*"Unoriginal-Rice-Patty" は、私の個人的な ホンダやアキュラに対するリプレイ攻撃のタイトルです。*
 *"Honda" in Japanese translates to "Original Rice Patty". While a cute fact, this attack is not cute and not original, hence the name*
 
 *This is for educational purposes only. I am in NO WAY liable for any actions executed by means of the contents within this repository. PLEASE use responsibly.*
