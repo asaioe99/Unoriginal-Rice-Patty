@@ -7,7 +7,7 @@ https://user-images.githubusercontent.com/43358273/127954308-5519436a-d980-420d-
 *"低品質のガレージドアがホンダのセキュリティよりもマシだなんて信じられる？"*
 
 *"Unoriginal-Rice-Patty" は、私の個人的な ホンダやアキュラに対するリプレイ攻撃のタイトルです。*
-*"Honda" in Japanese translates to "Original Rice Patty". While a cute fact, this attack is not cute and not original, hence the name*
+*"Honda" という日本語を翻訳すると、 "Original Rice Patty"（訳注：訳は「オリジナルの稲田」であるとしている。当然誤訳であり、正しくは新田に対する「昔からある田」である）になります。可愛らしい事実ですが、この攻撃方法はその名前に反して全く可愛くもないし、筆者のオリジナルでもない。*
 
 *This is for educational purposes only. I am in NO WAY liable for any actions executed by means of the contents within this repository. PLEASE use responsibly.*
 
