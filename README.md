@@ -9,21 +9,21 @@ https://user-images.githubusercontent.com/43358273/127954308-5519436a-d980-420d-
 *"Unoriginal-Rice-Patty" は、私の個人的な ホンダやアキュラに対するリプレイ攻撃のタイトルです。*
 *"Honda" という日本語を翻訳すると、 "Original Rice Patty"（訳注：訳は「オリジナルの稲田」であるとしている。当然誤訳であり、正しくは新田に対する「昔からある田」である）になります。可愛らしい事実ですが、この攻撃方法はその名前に反して全く可愛くもないし、筆者のオリジナルでもない。*
 
-*This is for educational purposes only. I am in NO WAY liable for any actions executed by means of the contents within this repository. PLEASE use responsibly.*
+*本記事の内容は、あくまでも教育目的のみに限られます。 I am in NO WAY liable for any actions executed by means of the contents within this repository. PLEASE use responsibly.*
 
 This attack seems to affect EVERY Honda/Acura vehicle with remote/wireless radio entry. Honda does *NOT* ever institue a rolling code system and *ONLY* manufactures systems with static codes meaning there is NO layer of security.
 
-## Summary:
+## 要約:
 A hacker can gain complete and unlimited access to locking, unlocking, controlling the windows, opening the trunk, and starting the engine of the target vehicle where the only way to prevent the attack is to either never use your fob or, after being compromised (which would be difficult to realize), resetting your fob at a dealership.
 
-## The Attack:
+## 攻撃:
 Simply capturing the signal sent from a FOB is enough to gain at least *some* control of the vehicle. If the target locks their vehicle, all it takes is
 receiving it and saving it for me to gain the ability to replay the same command and have the vehicle respond accordingly.
 
 Recording the "unlock" command from the target and replaying (this works on most if not all of Honda's produced FOBs) will allow me to unlock the vehicle whenever I'd like to, and it doesn't stop there *at all*
 On top of being able to start the vehicle's *ENGINE* *Whenever I wished* through recording the "remote start", it seems possible to actually (through Honda's "Smart Key" which uses FSK) demodulate any command, edit it, and retransmit in order to make the target vehicle do whatever you wish.
 
-For Example:
+例:
 Recording a "lock" command and flipping the following bits: 
 
 ```653-656, 667-668, 677-680, 683-684, 823-826, 837-838, 847-850, 853-854```
@@ -64,11 +64,11 @@ Honda seemingly ignored CVE-2019-20626 (cited above in the list of confirmed, af
 this very simple "replay/replay and edit" attack. This CVE interestingly only cites one vehicle and I only discovered this much later in my pursuit for
 research. Honda will not respond to me, or seemingly anyone attempting to report this security MAJOR flaw.
 
-## How Honda Can Fix This
+## ホンダは如何にして修正すべきか
 Honda must implement a "rolling code" system into their vehicles' list of security measures. Rolling code systems have been around since 1995 and
 work very well against hackers. Honda has seemingly never implemented this security measure, leaving them very far behind in the race toward a secure
 technological future. As far as I can tell, this isn't easily "patchable". Honda can begin to implement security measures in future vehicles, however
 it doesn't seem likely that they will go back and fix this security issue in older models.
 
-## Epilogue
+## エピローグ
 I am very interested in community feedback! Feel free to contact me with more research, information, or questions!
