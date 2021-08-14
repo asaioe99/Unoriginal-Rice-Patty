@@ -9,7 +9,7 @@ https://user-images.githubusercontent.com/43358273/127954308-5519436a-d980-420d-
 *"Unoriginal-Rice-Patty" は、私の個人的な ホンダやアキュラに対するリプレイ攻撃のタイトルです。*
 *"Honda" という日本語を翻訳すると、 "Original Rice Patty"（訳注：訳は「オリジナルの稲田」であるとしている。当然誤訳であり、正しくは新田に対する「昔からある田」である）になります。可愛らしい事実ですが、この攻撃方法はその名前に反して全く可愛くもないし、筆者のオリジナルでもない。*
 
-*本記事の内容は、あくまでも教育目的のみに限られます。 I am in NO WAY liable for any actions executed by means of the contents within this repository. PLEASE use responsibly.*
+*本記事の内容は、あくまでも教育目的のみに限られます。 本レポジトリに書いてある方法を実際に実行しても、私には一切責任はありません。自分の行動には責任を持ちましょう。*
 
 This attack seems to affect EVERY Honda/Acura vehicle with remote/wireless radio entry. Honda does *NOT* ever institue a rolling code system and *ONLY* manufactures systems with static codes meaning there is NO layer of security.
 
