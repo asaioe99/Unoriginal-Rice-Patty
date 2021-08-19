@@ -11,7 +11,7 @@ https://user-images.githubusercontent.com/43358273/127954308-5519436a-d980-420d-
 
 *本記事の内容は、あくまでも教育目的のみに限られます。 本レポジトリに書いてある方法を実際に実行しても、私には一切責任はありません。自分の行動には責任を持ちましょう。*
 
-この攻撃方法は、恐らく全てのホンダ／アキュラ製の自動車に使用されるリモート／ワイヤレス無線エントリーに有効であると思われます。Honda does *NOT* ever institue a rolling code system and *ONLY* manufactures systems with static codes meaning there is NO layer of security.
+この攻撃方法は、恐らく全てのホンダ／アキュラ製の自動車に使用されるリモート／ワイヤレス無線エントリーに有効であると思われます。ホンダは、未だに巡回鍵（rolling code）システムの採用をして*おらず*、セキュリティに対する配慮の無い固定鍵によるシステム*のみ*を製造している。
 
 ## 要約:
 A hacker can gain complete and unlimited access to locking, unlocking, controlling the windows, opening the trunk, and starting the engine of the target vehicle where the only way to prevent the attack is to either never use your fob or, after being compromised (which would be difficult to realize), resetting your fob at a dealership.
