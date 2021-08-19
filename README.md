@@ -17,7 +17,7 @@ https://user-images.githubusercontent.com/43358273/127954308-5519436a-d980-420d-
 A hacker can gain complete and unlimited access to locking, unlocking, controlling the windows, opening the trunk, and starting the engine of the target vehicle where the only way to prevent the attack is to either never use your fob or, after being compromised (which would be difficult to realize), resetting your fob at a dealership.
 
 ## 攻撃:
-Simply capturing the signal sent from a FOB is enough to gain at least *some* control of the vehicle. If the target locks their vehicle, all it takes is
+単純に、FOB より送信された信号をキャプチャーすることで、少なくともある種の車両の制御をする上では十分である。If the target locks their vehicle, all it takes is
 receiving it and saving it for me to gain the ability to replay the same command and have the vehicle respond accordingly.
 
 Recording the "unlock" command from the target and replaying (this works on most if not all of Honda's produced FOBs) will allow me to unlock the vehicle whenever I'd like to, and it doesn't stop there *at all*
