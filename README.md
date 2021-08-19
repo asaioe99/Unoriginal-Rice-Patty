@@ -17,8 +17,7 @@ https://user-images.githubusercontent.com/43358273/127954308-5519436a-d980-420d-
 A hacker can gain complete and unlimited access to locking, unlocking, controlling the windows, opening the trunk, and starting the engine of the target vehicle where the only way to prevent the attack is to either never use your fob or, after being compromised (which would be difficult to realize), resetting your fob at a dealership.
 
 ## 攻撃:
-単純に、FOB より送信された信号をキャプチャーすることで、少なくともある種の車両の制御をする上では十分である。If the target locks their vehicle, all it takes is
-receiving it and saving it for me to gain the ability to replay the same command and have the vehicle respond accordingly.
+単純に、FOB より送信された信号をキャプチャーすることで、少なくともある種の車両の制御をする上では十分である。標的が自動車の鍵をロックしたのであれば、必要なことは、同じ信号をリプレイし、車両に同様の操作をできるようにするために、その信号を受信及び保存するだけである。
 
 Recording the "unlock" command from the target and replaying (this works on most if not all of Honda's produced FOBs) will allow me to unlock the vehicle whenever I'd like to, and it doesn't stop there *at all*
 On top of being able to start the vehicle's *ENGINE* *Whenever I wished* through recording the "remote start", it seems possible to actually (through Honda's "Smart Key" which uses FSK) demodulate any command, edit it, and retransmit in order to make the target vehicle do whatever you wish.
